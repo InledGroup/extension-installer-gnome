@@ -1,1 +1,2 @@
-# extensions-gnome
+# extension-installer-gnome
+Instalador de extensiones de GNOME Shell
